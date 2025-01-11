@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Needa07
 - 👀 I’m interested in creating programs with good efficiencies and logic
-- 🌱 I’m currently learning C++ concepts
+- 🌱 I’m currently learning python development and data analysis
 - 💞️ I also find interest in web development and fundamental algorithms
 
 <!---
